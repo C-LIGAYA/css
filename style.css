@@ -1,0 +1,95 @@
+.cancel{
+    background: transparent;
+    background-color: #fd3463;
+    padding:10px;
+    border-radius: 15px;
+    border:none;
+
+}
+
+.sign_upbtn{
+    background: transparent;
+    background-color: #2bef90;
+    padding:10px;
+    border-radius: 15px;
+    border:none;
+
+}
+
+
+.email{
+    background-color: rgb(232, 241, 243, 0.873);   
+    margin-bottom: 10px;
+    padding-right: 70px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+    
+    
+}
+
+.password{
+    background-color: rgb(232, 241, 243, 0.873);
+    padding-right: 70px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+
+
+}
+
+
+.reenter{ 
+    background-color: rgba(232, 241, 243, 0.873);
+    margin-bottom: 10px;
+    padding-right: 70px;
+    padding-top:5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    border-color: rgb(255, 255, 255);
+
+    
+    
+}
+
+.remember{
+    font-size: 20px;
+}
+
+body{
+    
+    background-image: url(459307109_829265129352302_5368549050986496271_n.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+
+    }
+
+    .facebook{
+           
+        margin-left: -103px;
+        margin-top: -10px;
+            width:40px;
+            height:40px;
+    
+}
+
+.twitter{
+    position: absolute;
+       margin-left:12px;
+       margin-top: -10px;
+        
+        width:40px;
+        height:40px;
+}
+
+.tg{
+    position: absolute;
+    margin-left:65px ;
+    margin-top: -10px;
+            width:40px;
+            height:40px;
+}
